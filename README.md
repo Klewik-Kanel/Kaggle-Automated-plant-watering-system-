@@ -76,9 +76,6 @@ Features used:
 
 ## 👨‍💻 Author
 
-- **Your Name** — Machine Learning Developer | Data Enthusiast
+- **Kaustubh Pandey** — Machine Learning Developer | Data Enthusiast
 
 ---
-
-Would you also like me to quickly create a `requirements.txt` and example folder structure (`/data`, `/notebooks`, etc.) if you plan to make the GitHub repo even cleaner? 🚀  
-Would take just a minute!
