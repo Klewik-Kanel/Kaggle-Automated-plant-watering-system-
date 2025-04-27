@@ -79,3 +79,4 @@ Features used:
 - **Kaustubh Pandey** — Machine Learning Developer | Data Enthusiast
 
 ---
+Kaggel link to the project: https://www.kaggle.com/code/klewikkanel/automatic-plant-watering-system-using-knn
